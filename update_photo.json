@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
-  "url": "https://1drv.ms/u/s!Au3TbhYJO3Sacc785_gdOqPQLmo?e=TMwfB3",
-  "description": "New version 1.3.0 add <br>-new RBG mode <br>-add time line in export file <br>-and fix bugs :)"
+  "version": "1.4.0",
+  "url": "https://1drv.ms/u/s!Au3TbhYJO3SacjvsHPeQKMRT_Ok?e=yEcFr7",
+  "description": "New version 1.4.0 add <br>-new settings [Saturation] [Hue] <br>-remove not unnecessary colors <br>-fix UI bugs [Color change, Use RBG] :)"
 }
